@@ -1,9 +1,3 @@
-header {
-font-size: x-large;
-font-weight: bold;
-text-align: center;
-color: #CAA893;
-border: thin #CAA893 inset;
-margin: 20px 30px;
-padding: 10px 20px;
+h1 {
+  text-align: center;
 }
