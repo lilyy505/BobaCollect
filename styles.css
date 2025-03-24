@@ -1,11 +1,14 @@
 <style>
 body {
-  background-color: powderblue;
+  background-color: AliceBlue;
+  text-align: center
 }
 h1 {
-  color: red;
+  color: Bisque;
+  text-align: center
 }
 p {
-  color: red;
+  color: Black;
+  text-align: center
 }
 </style>
