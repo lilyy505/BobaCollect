@@ -11,11 +11,4 @@ p {
   color: Black;
   text-align: center
 }
-div {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 600px;
-  border: 1px solid black;
-}
 </style>
