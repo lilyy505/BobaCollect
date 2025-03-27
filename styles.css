@@ -11,7 +11,11 @@ p {
   color: Black;
   text-align: center
 }
-img {
-  border-radius: 8px;
+div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 600px;
+  border: 1px solid black;
 }
 </style>
